@@ -1,0 +1,215 @@
+body {
+	margin: 48px;
+	background: #ffffff;
+}
+
+.clear {
+	clear: both;
+}
+
+
+.a {
+	position: absolute;
+	top: 108px;
+	left: 300px;
+	right: -12px;
+	border-bottom: 12px solid #da1616;
+	border-left: 12px solid transparent;
+	border-right: 12px solid transparent;
+	width: 50px;
+}
+
+
+.a1 {
+	position: absolute;
+	top: 120px;
+	left: 300px;
+	border-top: 12px solid #000;
+	border-left: 12px solid transparent;
+	border-right: 12px solid transparent;
+	width: 50px;
+}
+
+.f1 {
+	position: absolute;
+	top: 151px;
+	left: 269px;
+	border-bottom: 12px solid #16da26;
+	border-left: 12px solid transparent;
+	border-right: 12px solid transparent;
+	width: 50px;
+	-webkit-transform:rotate(90deg);
+	-moz-transform: rotate(90deg);
+	-ms-transform: rotate(90deg);
+	-o-transform: rotate(90deg);
+	transform: rotate(90deg);
+}
+
+.f2 {
+	position: absolute;
+	top: 151px;
+	left: 257px;
+	border-top: 12px solid #da1616;
+	border-left: 12px solid transparent;
+	border-right: 12px solid transparent;
+	width: 50px;
+	-webkit-transform:rotate(90deg);
+	-moz-transform: rotate(90deg);
+	-ms-transform: rotate(90deg);
+	-o-transform: rotate(90deg);
+	transform: rotate(90deg);
+}
+
+.b1 {
+	position: absolute;
+	top: 151px;
+	left: 343px;
+	border-bottom: 12px solid #da16c0;
+	border-left: 12px solid transparent;
+	border-right: 12px solid transparent;
+	width: 50px;
+	-webkit-transform:rotate(90deg);
+	-moz-transform: rotate(90deg);
+	-ms-transform: rotate(90deg);
+	-o-transform: rotate(90deg);
+	transform: rotate(90deg);
+}
+
+.b2 {
+	position: absolute;
+	top: 151px;
+	left: 331px;
+	border-top: 12px solid #3414eb;
+	border-left: 12px solid transparent;
+	border-right: 12px solid transparent;
+	width: 50px;
+	-webkit-transform:rotate(90deg);
+	-moz-transform: rotate(90deg);
+	-ms-transform: rotate(90deg);
+	-o-transform: rotate(90deg);
+	transform: rotate(90deg);
+}
+
+.g1 {
+	position: absolute;
+	top: 182px;
+	left: 300px;
+	border-bottom: 12px solid #16dad0;
+	border-left: 12px solid transparent;
+	border-right: 12px solid transparent;
+	width: 50px;
+}
+
+.g2 {
+	position: absolute;
+	top: 193px;
+	left: 300px;
+	border-top: 12px solid #b41616;
+	border-left: 12px solid transparent;
+	border-right: 12px solid transparent;
+	width: 50px;
+}
+
+.c1 {
+	position: absolute;
+	top: 251px;
+	left: 343px;
+	border-bottom: 12px solid #da16c0;
+	border-left: 12px solid transparent;
+	border-right: 12px solid transparent;
+	width: 50px;
+	-webkit-transform:rotate(90deg);
+	-moz-transform: rotate(90deg);
+	-ms-transform: rotate(90deg);
+	-o-transform: rotate(90deg);
+	transform: rotate(90deg);
+}
+
+.c2 {
+	position: absolute;
+	top: 251px;
+	left: 331px;
+	border-top: 12px solid #3414eb;
+	border-left: 12px solid transparent;
+	border-right: 12px solid transparent;
+	width: 50px;
+	-webkit-transform:rotate(90deg);
+	-moz-transform: rotate(90deg);
+	-ms-transform: rotate(90deg);
+	-o-transform: rotate(90deg);
+	transform: rotate(90deg);
+}
+
+.e1 {
+	position: absolute;
+	top: 251px;
+	left: 269px;
+	border-bottom: 12px solid #16da26;
+	border-left: 12px solid transparent;
+	border-right: 12px solid transparent;
+	width: 50px;
+	-webkit-transform:rotate(90deg);
+	-moz-transform: rotate(90deg);
+	-ms-transform: rotate(90deg);
+	-o-transform: rotate(90deg);
+	transform: rotate(90deg);
+}
+
+.e2 {
+	position: absolute;
+	top: 251px;
+	left: 257px;
+	border-top: 12px solid #da1616;
+	border-left: 12px solid transparent;
+	border-right: 12px solid transparent;
+	width: 50px;
+	-webkit-transform:rotate(90deg);
+	-moz-transform: rotate(90deg);
+	-ms-transform: rotate(90deg);
+	-o-transform: rotate(90deg);
+	transform: rotate(90deg);
+}
+
+.d1 {
+	position: absolute;
+	top: 292px;
+	left: 300px;
+	border-bottom: 12px solid #16dad0;
+	border-left: 12px solid transparent;
+	border-right: 12px solid transparent;
+	width: 50px;
+}
+
+.d2 {
+	position: absolute;
+	top: 304px;
+	left: 300px;
+	border-top: 12px solid #b41616;
+	border-left: 12px solid transparent;
+	border-right: 12px solid transparent;
+	width: 50px;
+}
+
+
+
+.display-1 .segment-a,
+.display-1 .segment-d,
+.display-1 .segment-e,
+.display-1 .segment-f,
+.display-1 .segment-g {
+	/*display: none;*/
+	opacity: 0.1;
+	filter: alpha(opacity=10);
+}
+
+.display-2 .segment-c,
+.display-2 .segment-f {
+	/*display: none;*/
+	opacity: 0.1;
+}
+
+.display-no-3 .segment-e,
+.display-no-3 .segment-f {
+	/*display: none;*/
+	opacity: 0.1;
+}

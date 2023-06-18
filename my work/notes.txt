@@ -1,0 +1,9 @@
+1. Things to add for Elevator GUI:
+
+Get placement of buttons as intended based on the picture.
+
+Change the look of the button
+
+Add a Seven Segment Display to display floor number. Use website as refrence for display https://codepen.io/0x04/pen/AEjQwB
+
+2. Create scripts for Displaying Elevator and button response for Elevator.
