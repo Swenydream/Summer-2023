@@ -112,7 +112,7 @@ body {
 
 .c1 {
 	position: absolute;
-	top: 251px;
+	top: 201px;
 	left: 343px;
 	border-bottom: 12px solid #da16c0;
 	border-left: 12px solid transparent;
@@ -127,7 +127,7 @@ body {
 
 .c2 {
 	position: absolute;
-	top: 251px;
+	top: 201px;
 	left: 331px;
 	border-top: 12px solid #3414eb;
 	border-left: 12px solid transparent;
@@ -142,7 +142,7 @@ body {
 
 .e1 {
 	position: absolute;
-	top: 251px;
+	top: 201px;
 	left: 269px;
 	border-bottom: 12px solid #16da26;
 	border-left: 12px solid transparent;
@@ -157,7 +157,7 @@ body {
 
 .e2 {
 	position: absolute;
-	top: 251px;
+	top: 201px;
 	left: 257px;
 	border-top: 12px solid #da1616;
 	border-left: 12px solid transparent;
@@ -172,7 +172,7 @@ body {
 
 .d1 {
 	position: absolute;
-	top: 292px;
+	top: 272px;
 	left: 300px;
 	border-bottom: 12px solid #16dad0;
 	border-left: 12px solid transparent;
@@ -182,7 +182,7 @@ body {
 
 .d2 {
 	position: absolute;
-	top: 304px;
+	top: 284px;
 	left: 300px;
 	border-top: 12px solid #b41616;
 	border-left: 12px solid transparent;
@@ -193,23 +193,34 @@ body {
 
 
 .display-1 .segment-a,
-.display-1 .segment-d,
-.display-1 .segment-e,
-.display-1 .segment-f,
-.display-1 .segment-g {
-	/*display: none;*/
-	opacity: 0.1;
+.display-1 .segment-a1,
+.display-1 .segment-d1,
+.display-1 .segment-d2,
+.display-1 .segment-e1,
+.display-1 .segment-e2,
+.display-1 .segment-f1,
+.display-1 .segment-f2,
+.display-1 .segment-g1,
+.display-1 .segment-g2
+{
+	opacity: 0.1; /*Adjust based on liking*/
 	filter: alpha(opacity=10);
 }
 
-.display-2 .segment-c,
-.display-2 .segment-f {
-	/*display: none;*/
-	opacity: 0.1;
+.display-2 .segment-c1,
+.display-2 .segment-c2,
+.display-2 .segment-f1,
+.display-2 .segment-f2 
+{
+
+	opacity: 0.1; /*Adjust based on liking*/
 }
 
-.display-no-3 .segment-e,
-.display-no-3 .segment-f {
-	/*display: none;*/
-	opacity: 0.1;
+.display-3 .segment-e1,
+.display-3 .segment-e2,
+.display-3 .segment-f1,
+.display-3 .segment-f2 
+{
+
+	opacity: 0.1; /*Adjust based on liking*/
 }
